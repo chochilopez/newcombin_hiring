@@ -1,10 +1,10 @@
 # Newcombin Challenge
 
-Pequeña aplicacion que permite la de personas. Ui frame -> quasar
+Little app for adding users and info. UI Frame Quasar/Vue3
 
-## Instalación
+## Run (Docker Compose)
 
   #### `$ docker-compose up --build -d`
 
-Ingresar a localhost:8080
+Go to localhost:8080
 
